@@ -1,0 +1,11 @@
+{
+  "dbAddress": "localhost",
+  "dbPort": "1433",
+  "dbUser": "SA",
+  "dbPassword": "@passworD12",
+  "defaultDBs": ["master", "tempdb", "model", "msdb"]
+
+
+
+
+}
